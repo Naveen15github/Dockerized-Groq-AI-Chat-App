@@ -109,7 +109,7 @@ GROQ_API_KEY=your_groq_api_key_here
 ```bash
 git clone https://github.com/your-username/Dockerized-Groq-AI-Chat-App.git
 cd Dockerized-Groq-AI-Chat-App
-````
+```` 
 
 ### 2️⃣ Create and Activate Virtual Environment
 
