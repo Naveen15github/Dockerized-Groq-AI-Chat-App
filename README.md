@@ -208,7 +208,6 @@ Cloud | DevOps | AI Infrastructure
 GitHub: [https://github.com/your-Naveen15github](https://github.com/Naveen15github)
 LinkedIn: [https://linkedin.com/in/Naveen G](https://www.linkedin.com/in/naveen-g-41a041253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxpZxBAIJSVCPf%2FWXfnGRVw%3D%3D)
 
-```
 
 
 
