@@ -41,26 +41,6 @@ Before running this project, ensure you have:
 
 ---
 
-## 🏗️ Application Architecture
-
-```
-
-User Prompt
-│
-▼
-Chat Application (Python)
-│
-▼
-Groq API (LLM Inference)
-│
-▼
-AI Response
-
-```
-
-The entire application is packaged and executed inside a Docker container for consistency.
-
----
 
 ## 🧰 Tech Stack
 
