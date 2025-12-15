@@ -195,7 +195,7 @@ This project helped me gain hands-on experience in:
 This project was **fully implemented by me**.
 I referred to the following repository for **conceptual understanding and general setup ideas**:
 
-* Reference Repository: [https://github.com/yourusername/Groqapi-Examples](https://github.com/yourusername/Groqapi-Examples)
+* Reference Repository: [](https://github.com/Naveen15github/Dockerized-Groq-AI-Chat-App.git)
 
 All customization, Dockerization, and implementation decisions were independently carried out.
 
@@ -205,8 +205,8 @@ All customization, Dockerization, and implementation decisions were independentl
 
 **Naveen G**
 Cloud | DevOps | AI Infrastructure
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+GitHub: [https://github.com/your-Naveen15github](https://github.com/Naveen15github)
+LinkedIn: [https://linkedin.com/in/Naveen G](https://www.linkedin.com/in/naveen-g-41a041253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxpZxBAIJSVCPf%2FWXfnGRVw%3D%3D)
 
 ```
 
